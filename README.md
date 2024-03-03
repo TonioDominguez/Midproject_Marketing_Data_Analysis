@@ -6,7 +6,7 @@
 ---
 
 <div style="text-align: left;">
-  <h2>About the Project :house_with_garden:	</h2>
+  <h2>About the Project :bar_chart:	</h2>
 
   <p>
     The purpose of this project is to <strong>analyze and interpret a dataset</strong> with information about the <strong>customers of a store</strong>. We don't know what type of business it is except that they <strong>sell grocery items</strong>. We only know what <strong>types of products they provide</strong>, the ways in which <strong>customers have previously purchased</strong> and some <strong>metrics about marketing campaigns</strong> launched.
@@ -59,40 +59,11 @@ We will also try, with the final reading of all the data, to give some guideline
 ---
 
 <div style="text-align: left;">
-  <h2>Documentation: OG Variables :bookmark_tabs:	</h2>
+<h2>Project Development Time ⏰ </h2>
 
-  <p>
-    Below is a summary of the variables provided in the original dataframe, offering valuable context for the project:
+<p>
+    <strong>Five</strong> days, from <strong>02/25/24</strong> to <strong>03/1/24</strong>
   </p>
-
-  <ul>
-    <li><strong>id:</strong> A unique identifier for a house.</li>
-    <li><strong>date:</strong> The date on which the house was sold.</li>
-    <li><strong>price:</strong> The sale price of the house (prediction target).</li>
-    <li><strong>bedrooms:</strong> Number of bedrooms in the house.</li>
-    <li><strong>bathrooms:</strong> Number of bathrooms in the house, per bedroom.</li>
-    <li><strong>sqft_living:</strong> Square footage of the interior living space.</li>
-    <li><strong>sqft_lot:</strong> Square footage of the land space.</li>
-    <li><strong>floors:</strong> Number of floors (levels) in the house.</li>
-    <li><strong>waterfront:</strong> Whether the house has a waterfront view.</li>
-    <li><strong>view:</strong> Number of times the house has been viewed.</li>
-    <li><strong>condition:</strong> The overall condition of the house.</li>
-    <li><strong>grade:</strong> The overall grade given to the house, based on the King County grading system.</li>
-    <li><strong>sqft_above:</strong> Square footage of the house apart from the basement.</li>
-    <li><strong>sqft_basement:</strong> Square footage of the basement.</li>
-    <li><strong>yr_built:</strong> The year the house was built.</li>
-    <li><strong>yr_renovated:</strong> The year the house was renovated.</li>
-    <li><strong>zipcode:</strong> ZIP code area.</li>
-    <li><strong>lat:</strong> Latitude coordinate.</li>
-    <li><strong>long:</strong> Longitude coordinate.</li>
-    <li><strong>sqft_living15:</strong> The interior living space for the nearest 15 neighbors in 2015.</li>
-    <li><strong>sqft_lot15:</strong> The land spaces for the nearest 15 neighbors in 2015.</li>
-  </ul>
-
-  <p>
-    <strong>TARGET:</strong> Price: Our primary focus is to understand which features most significantly impact the house price.
-  </p>
-</div>
 
 ---
 
@@ -100,9 +71,17 @@ We will also try, with the final reading of all the data, to give some guideline
   <h2>Conclusion :eye:</h2>
 
   <p>
-    As a fellow beginner in the realm of machine learning, I sincerely hope you've found this project both enjoyable and enlightening. Embarking on this journey has been a thrilling adventure filled with challenges and discoveries, and I'm excited to share it with you.
+    With this work, I intend to show a little of the skills acquired during the Ironhack Data Analyst bootcam. I have focused on using EDA to try to get the most out of a base dataset on purchase statistics and customer actions in a store in order to define several suggestions for improvements for the Marketing department.
   </p>
 
   <p>
-    While the path ahead may seem daunting at times, never forget the joy of discovery and the thrill of solving complex problems with machine learning. Embrace the journey, embrace the challenges, and most importantly, embrace the excitement of learning something new.
+    I had one week to complete this project. The first day I also thought about including ML classification model to predict if the next customers to be included in our database were going to accept the next marketing campaign, but due to lack of time I finally decided to focus on analyzing in depth the customer segmentation and develop buyer persona profiles of the most frequent customers.
+  </p>
+
+  <p>
+    I hope you find the above interesting. I have tried to mix in this project my new vocation as Data Analyst with my previous background, Digital Marketing Strategist.
+  </p>
+
+  <p>
+    Best regards and see you in other Gits! :bowtie:
   </p>

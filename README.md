@@ -1,8 +1,7 @@
 <div align="left">
   <h1>Midproject: MARKETING DATA ANALYSIS</h1>
 
-   <img src="https://www.dmcinvestments.com/wp-content/uploads/1579_iStock-1271128053.jpg" alt="Portfolio Analysis" style="width: 70%; height: auto;">
-
+   <img src="pictures/front.jpg" alt="Front Image">
 
 ---
 

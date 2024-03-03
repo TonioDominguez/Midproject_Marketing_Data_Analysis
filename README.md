@@ -53,7 +53,7 @@ We will also try, with the final reading of all the data, to give some guideline
 </ol>
 
 <p>
-  As a final presentation of what has been developed and obtained in this project, we also include some explanatory slides. You can download the slides from <strong><a href="https://github.com/TonioDominguez/Midproject_Marketing_Data_Analysis/blob/main/slides/MARKETING%20Data%20Analysis.pptx">here</a></strong>.
+  As a final presentation of what has been developed and obtained in this project, we also include some explanatory slides. You can download the slides from <strong><a href="https://github.com/TonioDominguez/Midproject_Marketing_Data_Analysis/blob/main/slides/MARKETING%20Data%20Analysis.pdf">here</a></strong>.
 </p>
 
 
